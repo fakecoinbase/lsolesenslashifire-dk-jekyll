@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ifire.dk
+Token: 04cd85bec7d7f4a4f3d4a07fd8127bce27db458dcbb73516181d2c73d8f8d9da
